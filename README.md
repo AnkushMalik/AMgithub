@@ -1,3 +1,4 @@
+if you want template, visit this [repo](https://github.com/mythrex/Insta-Portfolio-template-clone).(author : [Mythrex](github.com/mythrex) & [AnkushMalik](github.com/AnkushMalik) :smile:)
 # Profile
 This repo is clone of insta portfolio template. This was a paid template but we deconstructed the website and reverse engineered it. This is only for education __not for sale.__ We fully respect and admire the creativity of designer of the template.
 
